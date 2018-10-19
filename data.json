@@ -1,0 +1,53 @@
+
+[
+      {
+        "dia": 1,
+        "tiempo": 1,
+        "distancia": 100
+      },
+      {
+        "dia": 2,
+        "tiempo": 2,
+        "distancia": 200
+      },
+      {
+        "dia": 3,
+        "tiempo": 3,
+        "distancia": 350
+      },
+      {
+        "dia": 4,
+        "tiempo": 2,
+        "distancia": 150
+      },
+      {
+        "dia": 5,
+        "tiempo": 5,
+        "distancia": 500
+      },
+      {
+        "dia": 6,
+        "tiempo": 7,
+        "distancia": 700
+      },
+      {
+        "dia": 7,
+        "tiempo": 9,
+        "distancia": 880
+      },
+      {
+        "dia": 8,
+        "tiempo": 10,
+        "distancia": 999
+      },
+      {
+        "dia": 9,
+        "tiempo": 8,
+        "distancia": 900
+      },
+      {
+        "dia": 10,
+        "tiempo": 8,
+        "distancia": 950
+      }
+]
