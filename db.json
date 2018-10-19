@@ -4,25 +4,5 @@
         "dia": 1,
         "tiempo": 1,
         "distancia": 100
-      },
-      {
-        "dia": 2,
-        "tiempo": 2,
-        "distancia": 200
-      },
-      {
-        "dia": 3,
-        "tiempo": 3,
-        "distancia": 350
-      },
-      {
-        "dia": 4,
-        "tiempo": 2,
-        "distancia": 150
-      },
-      {
-        "dia": 5,
-        "tiempo": 5,
-        "distancia": 500
       }
 ]
